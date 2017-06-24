@@ -7,6 +7,7 @@ int main()
 
 void do()
 {
+	print("ddasdas");
 }
 
 void print()
