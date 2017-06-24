@@ -1,4 +1,10 @@
 # firstproject
-I love China!
-it is for you!
->>>>>>> Stashed changes
+int main()
+{
+    int i = 0;
+    
+}
+
+void do()
+{
+}
