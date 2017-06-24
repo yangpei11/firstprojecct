@@ -8,6 +8,8 @@ int main()
 void do()
 {
 //delete the print
+
+//gggggggg
 }
 
 void print()
