@@ -8,3 +8,8 @@ int main()
 void do()
 {
 }
+
+void print()
+{
+   update();
+}
